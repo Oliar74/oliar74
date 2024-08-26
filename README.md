@@ -1,5 +1,5 @@
 ![GitHub Profile Banar (1)](https://github.com/user-attachments/assets/984b2ee6-3bc0-49fc-9db9-4a3282c1cf33)
-## Hi there 👋, my name is #Oliar Rahman
+## Hi there 👋, my name is Oliar Rahman
 #### I am a Software Quality Assurance(SQA) Engineer
 
 
