@@ -1,6 +1,6 @@
 ![GitHub Profile Banar (1)](https://github.com/user-attachments/assets/984b2ee6-3bc0-49fc-9db9-4a3282c1cf33)
 ## Hi there 👋, my name is Oliar Rahman
-#### I am a Software Quality Assurance(SQA) Engineer
+#### Working as a Software Quality Assurance(SQA) Engineer
 
 
 I am studying MSc.Eng in CSE from KUET & would like to develop my career as a Software Quality Assurance (SQA) Engineer. At the same time, I am skilled in Manual Testing, API Testing, and Performance Testing. Also, learning about Automation Testing, and many other Software Testing methodologies. However, I have experience managing some real-time projects based on my expertise.
