@@ -1,16 +1,13 @@
-## Hi there 👋
+### Hi there 👋, my name is Oliar Rahman
+#### I am a Software Quality Assurance(SQA) Engineer
+![I am a Software Quality Assurance(SQA) Engineer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
-<!--
-**Oliar74/oliar74** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a CSE graduate & would like to develop my career as a Software Quality Assurance (SQA) Engineer. I am skilled in Manual Testing, API Testing, and Performance Testing. Also, learning about Automation Testing, and many other Software Testing methodologies & have experience managing some real-time projects based on my expertise.
 
-Here are some ideas to get you started:
+Skills: HTML / CSS / JAVA / Postman / JMeter / Selenium / Appium / Cypress / JIRA / Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on this page. 
+
+
+
+
